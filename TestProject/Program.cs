@@ -1,1 +1,2 @@
-﻿using System;namespace TestProject{	internal class Program	{		static void Main(string[] args){			Console.Write("ismail alaouy");			Console.ReadLine();					}	}}
+﻿using System;namespace TestProject{	internal class Program	{		static void Main(string[] args){			Console.Write("ismail alaouy");			Console.Write("ismail alaouy");			Console.Write("ismail alaouy");			Console.Write("ismail alaouy");			Console.Write("ismail alaouy");
+            Console.ReadLine();					}	}}
